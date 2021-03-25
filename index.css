@@ -1,0 +1,9 @@
+.hola {
+    position: absolute;
+    text-align: center;
+    width: 100%;
+}
+
+.hola img {
+    width: 500px;
+}
